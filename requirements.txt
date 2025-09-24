@@ -1,0 +1,5 @@
+gradio>=4.0.0
+numpy
+tensorflow
+scikit-learn
+pickle5
